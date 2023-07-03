@@ -1,0 +1,32 @@
+.top-bar {
+  background: #ab8e66;
+  padding: 10px 0;
+  color: #fff;
+}
+
+.top-bar-left {
+  display: inline-block;
+  line-height: 48px;
+}
+
+.top-bar-right {
+  display: inline-block;
+  float: right;
+}
+
+.top-bar .header-user-links {
+  display: inline-block;
+  margin: 0;
+  list-style: none;
+  padding-left: 15px;
+}
+
+.top-bar .header-user-links a {
+  line-height: 48px;
+  color: #fff;
+  text-decoration: none;
+}
+
+.header .main-header {
+  padding: 50px 0;
+}
